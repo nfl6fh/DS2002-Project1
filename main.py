@@ -4,7 +4,9 @@ import matplotlib
 import matplotlib.pyplot as plt
 
 def main():
-    print('Running main')
+    parameters = ''
+    url = f'https://'
+    r = requests.get(url)
 
 
 if __name__ == '__main__':
