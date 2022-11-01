@@ -1,0 +1,417 @@
+,ID State,State,ID Year,Year,Population,Slug State,Region
+0,04000US01,Alabama,2020,2020,4893186,alabama,South
+1,04000US02,Alaska,2020,2020,736990,alaska,West
+2,04000US04,Arizona,2020,2020,7174064,arizona,Southwest
+3,04000US05,Arkansas,2020,2020,3011873,arkansas,South
+4,04000US06,California,2020,2020,39346023,california,West
+5,04000US08,Colorado,2020,2020,5684926,colorado,West
+6,04000US09,Connecticut,2020,2020,3570549,connecticut,NewEngland
+7,04000US10,Delaware,2020,2020,967679,delaware,MiddleAtlantic
+8,04000US11,District of Columbia,2020,2020,701974,district-of-columbia,Other
+9,04000US12,Florida,2020,2020,21216924,florida,South
+10,04000US13,Georgia,2020,2020,10516579,georgia,South
+11,04000US15,Hawaii,2020,2020,1420074,hawaii,West
+12,04000US16,Idaho,2020,2020,1754367,idaho,West
+13,04000US17,Illinois,2020,2020,12716164,illinois,Midwest
+14,04000US18,Indiana,2020,2020,6696893,indiana,Midwest
+15,04000US19,Iowa,2020,2020,3150011,iowa,Midwest
+16,04000US20,Kansas,2020,2020,2912619,kansas,Midwest
+17,04000US21,Kentucky,2020,2020,4461952,kentucky,South
+18,04000US22,Louisiana,2020,2020,4664616,louisiana,South
+19,04000US23,Maine,2020,2020,1340825,maine,NewEngland
+20,04000US24,Maryland,2020,2020,6037624,maryland,MiddleAtlantic
+21,04000US25,Massachusetts,2020,2020,6873003,massachusetts,NewEngland
+22,04000US26,Michigan,2020,2020,9973907,michigan,Midwest
+23,04000US27,Minnesota,2020,2020,5600166,minnesota,Midwest
+24,04000US28,Mississippi,2020,2020,2981835,mississippi,South
+25,04000US29,Missouri,2020,2020,6124160,missouri,South
+26,04000US30,Montana,2020,2020,1061705,montana,West
+27,04000US31,Nebraska,2020,2020,1923826,nebraska,Midwest
+28,04000US32,Nevada,2020,2020,3030281,nevada,West
+29,04000US33,New Hampshire,2020,2020,1355244,new-hampshire,NewEngland
+30,04000US34,New Jersey,2020,2020,8885418,new-jersey,MiddleAtlantic
+31,04000US35,New Mexico,2020,2020,2097021,new-mexico,Southwest
+32,04000US36,New York,2020,2020,19514849,new-york,MiddleAtlantic
+33,04000US37,North Carolina,2020,2020,10386227,north-carolina,South
+34,04000US38,North Dakota,2020,2020,760394,north-dakota,Midwest
+35,04000US39,Ohio,2020,2020,11675275,ohio,Midwest
+36,04000US40,Oklahoma,2020,2020,3949342,oklahoma,Southwest
+37,04000US41,Oregon,2020,2020,4176346,oregon,West
+38,04000US42,Pennsylvania,2020,2020,12794885,pennsylvania,MiddleAtlantic
+39,04000US44,Rhode Island,2020,2020,1057798,rhode-island,NewEngland
+40,04000US45,South Carolina,2020,2020,5091517,south-carolina,South
+41,04000US46,South Dakota,2020,2020,879336,south-dakota,Midwest
+42,04000US47,Tennessee,2020,2020,6772268,tennessee,South
+43,04000US48,Texas,2020,2020,28635442,texas,Southwest
+44,04000US49,Utah,2020,2020,3151239,utah,West
+45,04000US50,Vermont,2020,2020,624340,vermont,NewEngland
+46,04000US51,Virginia,2020,2020,8509358,virginia,South
+47,04000US53,Washington,2020,2020,7512465,washington,West
+48,04000US54,West Virginia,2020,2020,1807426,west-virginia,South
+49,04000US55,Wisconsin,2020,2020,5806975,wisconsin,Midwest
+50,04000US56,Wyoming,2020,2020,581348,wyoming,West
+51,04000US72,Puerto Rico,2020,2020,3255642,puerto-rico,Other
+52,04000US01,Alabama,2019,2019,4876250,alabama,South
+53,04000US02,Alaska,2019,2019,737068,alaska,West
+54,04000US04,Arizona,2019,2019,7050299,arizona,Southwest
+55,04000US05,Arkansas,2019,2019,2999370,arkansas,South
+56,04000US06,California,2019,2019,39283497,california,West
+57,04000US08,Colorado,2019,2019,5610349,colorado,West
+58,04000US09,Connecticut,2019,2019,3575074,connecticut,NewEngland
+59,04000US10,Delaware,2019,2019,957248,delaware,MiddleAtlantic
+60,04000US11,District of Columbia,2019,2019,692683,district-of-columbia,Other
+61,04000US12,Florida,2019,2019,20901636,florida,South
+62,04000US13,Georgia,2019,2019,10403847,georgia,South
+63,04000US15,Hawaii,2019,2019,1422094,hawaii,West
+64,04000US16,Idaho,2019,2019,1717750,idaho,West
+65,04000US17,Illinois,2019,2019,12770631,illinois,Midwest
+66,04000US18,Indiana,2019,2019,6665703,indiana,Midwest
+67,04000US19,Iowa,2019,2019,3139508,iowa,Midwest
+68,04000US20,Kansas,2019,2019,2910652,kansas,Midwest
+69,04000US21,Kentucky,2019,2019,4449052,kentucky,South
+70,04000US22,Louisiana,2019,2019,4664362,louisiana,South
+71,04000US23,Maine,2019,2019,1335492,maine,NewEngland
+72,04000US24,Maryland,2019,2019,6018848,maryland,MiddleAtlantic
+73,04000US25,Massachusetts,2019,2019,6850553,massachusetts,NewEngland
+74,04000US26,Michigan,2019,2019,9965265,michigan,Midwest
+75,04000US27,Minnesota,2019,2019,5563378,minnesota,Midwest
+76,04000US28,Mississippi,2019,2019,2984418,mississippi,South
+77,04000US29,Missouri,2019,2019,6104910,missouri,South
+78,04000US30,Montana,2019,2019,1050649,montana,West
+79,04000US31,Nebraska,2019,2019,1914571,nebraska,Midwest
+80,04000US32,Nevada,2019,2019,2972382,nevada,West
+81,04000US33,New Hampshire,2019,2019,1348124,new-hampshire,NewEngland
+82,04000US34,New Jersey,2019,2019,8878503,new-jersey,MiddleAtlantic
+83,04000US35,New Mexico,2019,2019,2092454,new-mexico,Southwest
+84,04000US36,New York,2019,2019,19572319,new-york,MiddleAtlantic
+85,04000US37,North Carolina,2019,2019,10264876,north-carolina,South
+86,04000US38,North Dakota,2019,2019,756717,north-dakota,Midwest
+87,04000US39,Ohio,2019,2019,11655397,ohio,Midwest
+88,04000US40,Oklahoma,2019,2019,3932870,oklahoma,Southwest
+89,04000US41,Oregon,2019,2019,4129803,oregon,West
+90,04000US42,Pennsylvania,2019,2019,12791530,pennsylvania,MiddleAtlantic
+91,04000US44,Rhode Island,2019,2019,1057231,rhode-island,NewEngland
+92,04000US45,South Carolina,2019,2019,5020806,south-carolina,South
+93,04000US46,South Dakota,2019,2019,870638,south-dakota,Midwest
+94,04000US47,Tennessee,2019,2019,6709356,tennessee,South
+95,04000US48,Texas,2019,2019,28260856,texas,Southwest
+96,04000US49,Utah,2019,2019,3096848,utah,West
+97,04000US50,Vermont,2019,2019,624313,vermont,NewEngland
+98,04000US51,Virginia,2019,2019,8454463,virginia,South
+99,04000US53,Washington,2019,2019,7404107,washington,West
+100,04000US54,West Virginia,2019,2019,1817305,west-virginia,South
+101,04000US55,Wisconsin,2019,2019,5790716,wisconsin,Midwest
+102,04000US56,Wyoming,2019,2019,581024,wyoming,West
+103,04000US72,Puerto Rico,2019,2019,3318447,puerto-rico,Other
+104,04000US01,Alabama,2018,2018,4864680,alabama,South
+105,04000US02,Alaska,2018,2018,738516,alaska,West
+106,04000US04,Arizona,2018,2018,6946685,arizona,Southwest
+107,04000US05,Arkansas,2018,2018,2990671,arkansas,South
+108,04000US06,California,2018,2018,39148760,california,West
+109,04000US08,Colorado,2018,2018,5531141,colorado,West
+110,04000US09,Connecticut,2018,2018,3581504,connecticut,NewEngland
+111,04000US10,Delaware,2018,2018,949495,delaware,MiddleAtlantic
+112,04000US11,District of Columbia,2018,2018,684498,district-of-columbia,Other
+113,04000US12,Florida,2018,2018,20598139,florida,South
+114,04000US13,Georgia,2018,2018,10297484,georgia,South
+115,04000US15,Hawaii,2018,2018,1422029,hawaii,West
+116,04000US16,Idaho,2018,2018,1687809,idaho,West
+117,04000US17,Illinois,2018,2018,12821497,illinois,Midwest
+118,04000US18,Indiana,2018,2018,6637426,indiana,Midwest
+119,04000US19,Iowa,2018,2018,3132499,iowa,Midwest
+120,04000US20,Kansas,2018,2018,2908776,kansas,Midwest
+121,04000US21,Kentucky,2018,2018,4440204,kentucky,South
+122,04000US22,Louisiana,2018,2018,4663616,louisiana,South
+123,04000US23,Maine,2018,2018,1332813,maine,NewEngland
+124,04000US24,Maryland,2018,2018,6003435,maryland,MiddleAtlantic
+125,04000US25,Massachusetts,2018,2018,6830193,massachusetts,NewEngland
+126,04000US26,Michigan,2018,2018,9957488,michigan,Midwest
+127,04000US27,Minnesota,2018,2018,5527358,minnesota,Midwest
+128,04000US28,Mississippi,2018,2018,2988762,mississippi,South
+129,04000US29,Missouri,2018,2018,6090062,missouri,South
+130,04000US30,Montana,2018,2018,1041732,montana,West
+131,04000US31,Nebraska,2018,2018,1904760,nebraska,Midwest
+132,04000US32,Nevada,2018,2018,2922849,nevada,West
+133,04000US33,New Hampshire,2018,2018,1343622,new-hampshire,NewEngland
+134,04000US34,New Jersey,2018,2018,8881845,new-jersey,MiddleAtlantic
+135,04000US35,New Mexico,2018,2018,2092434,new-mexico,Southwest
+136,04000US36,New York,2018,2018,19618453,new-york,MiddleAtlantic
+137,04000US37,North Carolina,2018,2018,10155624,north-carolina,South
+138,04000US38,North Dakota,2018,2018,752201,north-dakota,Midwest
+139,04000US39,Ohio,2018,2018,11641879,ohio,Midwest
+140,04000US40,Oklahoma,2018,2018,3918137,oklahoma,Southwest
+141,04000US41,Oregon,2018,2018,4081943,oregon,West
+142,04000US42,Pennsylvania,2018,2018,12791181,pennsylvania,MiddleAtlantic
+143,04000US44,Rhode Island,2018,2018,1056611,rhode-island,NewEngland
+144,04000US45,South Carolina,2018,2018,4955925,south-carolina,South
+145,04000US46,South Dakota,2018,2018,864289,south-dakota,Midwest
+146,04000US47,Tennessee,2018,2018,6651089,tennessee,South
+147,04000US48,Texas,2018,2018,27885195,texas,Southwest
+148,04000US49,Utah,2018,2018,3045350,utah,West
+149,04000US50,Vermont,2018,2018,624977,vermont,NewEngland
+150,04000US51,Virginia,2018,2018,8413774,virginia,South
+151,04000US53,Washington,2018,2018,7294336,washington,West
+152,04000US54,West Virginia,2018,2018,1829054,west-virginia,South
+153,04000US55,Wisconsin,2018,2018,5778394,wisconsin,Midwest
+154,04000US56,Wyoming,2018,2018,581836,wyoming,West
+155,04000US72,Puerto Rico,2018,2018,3386941,puerto-rico,Other
+156,04000US01,Alabama,2017,2017,4850771,alabama,South
+157,04000US02,Alaska,2017,2017,738565,alaska,West
+158,04000US04,Arizona,2017,2017,6809946,arizona,Southwest
+159,04000US05,Arkansas,2017,2017,2977944,arkansas,South
+160,04000US06,California,2017,2017,38982847,california,West
+161,04000US08,Colorado,2017,2017,5436519,colorado,West
+162,04000US09,Connecticut,2017,2017,3594478,connecticut,NewEngland
+163,04000US10,Delaware,2017,2017,943732,delaware,MiddleAtlantic
+164,04000US11,District of Columbia,2017,2017,672391,district-of-columbia,Other
+165,04000US12,Florida,2017,2017,20278447,florida,South
+166,04000US13,Georgia,2017,2017,10201635,georgia,South
+167,04000US15,Hawaii,2017,2017,1421658,hawaii,West
+168,04000US16,Idaho,2017,2017,1657375,idaho,West
+169,04000US17,Illinois,2017,2017,12854526,illinois,Midwest
+170,04000US18,Indiana,2017,2017,6614418,indiana,Midwest
+171,04000US19,Iowa,2017,2017,3118102,iowa,Midwest
+172,04000US20,Kansas,2017,2017,2903820,kansas,Midwest
+173,04000US21,Kentucky,2017,2017,4424376,kentucky,South
+174,04000US22,Louisiana,2017,2017,4663461,louisiana,South
+175,04000US23,Maine,2017,2017,1330158,maine,NewEngland
+176,04000US24,Maryland,2017,2017,5996079,maryland,MiddleAtlantic
+177,04000US25,Massachusetts,2017,2017,6789319,massachusetts,NewEngland
+178,04000US26,Michigan,2017,2017,9925568,michigan,Midwest
+179,04000US27,Minnesota,2017,2017,5490726,minnesota,Midwest
+180,04000US28,Mississippi,2017,2017,2986220,mississippi,South
+181,04000US29,Missouri,2017,2017,6075300,missouri,South
+182,04000US30,Montana,2017,2017,1029862,montana,West
+183,04000US31,Nebraska,2017,2017,1893921,nebraska,Midwest
+184,04000US32,Nevada,2017,2017,2887725,nevada,West
+185,04000US33,New Hampshire,2017,2017,1331848,new-hampshire,NewEngland
+186,04000US34,New Jersey,2017,2017,8960161,new-jersey,MiddleAtlantic
+187,04000US35,New Mexico,2017,2017,2084828,new-mexico,Southwest
+188,04000US36,New York,2017,2017,19798228,new-york,MiddleAtlantic
+189,04000US37,North Carolina,2017,2017,10052564,north-carolina,South
+190,04000US38,North Dakota,2017,2017,745475,north-dakota,Midwest
+191,04000US39,Ohio,2017,2017,11609756,ohio,Midwest
+192,04000US40,Oklahoma,2017,2017,3896251,oklahoma,Southwest
+193,04000US41,Oregon,2017,2017,4025127,oregon,West
+194,04000US42,Pennsylvania,2017,2017,12790505,pennsylvania,MiddleAtlantic
+195,04000US44,Rhode Island,2017,2017,1056138,rhode-island,NewEngland
+196,04000US45,South Carolina,2017,2017,4893444,south-carolina,South
+197,04000US46,South Dakota,2017,2017,855444,south-dakota,Midwest
+198,04000US47,Tennessee,2017,2017,6597381,tennessee,South
+199,04000US48,Texas,2017,2017,27419612,texas,Southwest
+200,04000US49,Utah,2017,2017,2993941,utah,West
+201,04000US50,Vermont,2017,2017,624636,vermont,NewEngland
+202,04000US51,Virginia,2017,2017,8365952,virginia,South
+203,04000US53,Washington,2017,2017,7169967,washington,West
+204,04000US54,West Virginia,2017,2017,1836843,west-virginia,South
+205,04000US55,Wisconsin,2017,2017,5763217,wisconsin,Midwest
+206,04000US56,Wyoming,2017,2017,583200,wyoming,West
+207,04000US72,Puerto Rico,2017,2017,3468963,puerto-rico,Other
+208,04000US01,Alabama,2016,2016,4841164,alabama,South
+209,04000US02,Alaska,2016,2016,736855,alaska,West
+210,04000US04,Arizona,2016,2016,6728577,arizona,Southwest
+211,04000US05,Arkansas,2016,2016,2968472,arkansas,South
+212,04000US06,California,2016,2016,38654206,california,West
+213,04000US08,Colorado,2016,2016,5359295,colorado,West
+214,04000US09,Connecticut,2016,2016,3588570,connecticut,NewEngland
+215,04000US10,Delaware,2016,2016,934695,delaware,MiddleAtlantic
+216,04000US11,District of Columbia,2016,2016,659009,district-of-columbia,Other
+217,04000US12,Florida,2016,2016,19934451,florida,South
+218,04000US13,Georgia,2016,2016,10099320,georgia,South
+219,04000US15,Hawaii,2016,2016,1413673,hawaii,West
+220,04000US16,Idaho,2016,2016,1635483,idaho,West
+221,04000US17,Illinois,2016,2016,12851684,illinois,Midwest
+222,04000US18,Indiana,2016,2016,6589578,indiana,Midwest
+223,04000US19,Iowa,2016,2016,3106589,iowa,Midwest
+224,04000US20,Kansas,2016,2016,2898292,kansas,Midwest
+225,04000US21,Kentucky,2016,2016,4411989,kentucky,South
+226,04000US22,Louisiana,2016,2016,4645670,louisiana,South
+227,04000US23,Maine,2016,2016,1329923,maine,NewEngland
+228,04000US24,Maryland,2016,2016,5959902,maryland,MiddleAtlantic
+229,04000US25,Massachusetts,2016,2016,6742143,massachusetts,NewEngland
+230,04000US26,Michigan,2016,2016,9909600,michigan,Midwest
+231,04000US27,Minnesota,2016,2016,5450868,minnesota,Midwest
+232,04000US28,Mississippi,2016,2016,2989192,mississippi,South
+233,04000US29,Missouri,2016,2016,6059651,missouri,South
+234,04000US30,Montana,2016,2016,1023391,montana,West
+235,04000US31,Nebraska,2016,2016,1881259,nebraska,Midwest
+236,04000US32,Nevada,2016,2016,2839172,nevada,West
+237,04000US33,New Hampshire,2016,2016,1327503,new-hampshire,NewEngland
+238,04000US34,New Jersey,2016,2016,8915456,new-jersey,MiddleAtlantic
+239,04000US35,New Mexico,2016,2016,2082669,new-mexico,Southwest
+240,04000US36,New York,2016,2016,19697457,new-york,MiddleAtlantic
+241,04000US37,North Carolina,2016,2016,9940828,north-carolina,South
+242,04000US38,North Dakota,2016,2016,736162,north-dakota,Midwest
+243,04000US39,Ohio,2016,2016,11586941,ohio,Midwest
+244,04000US40,Oklahoma,2016,2016,3875589,oklahoma,Southwest
+245,04000US41,Oregon,2016,2016,3982267,oregon,West
+246,04000US42,Pennsylvania,2016,2016,12783977,pennsylvania,MiddleAtlantic
+247,04000US44,Rhode Island,2016,2016,1054491,rhode-island,NewEngland
+248,04000US45,South Carolina,2016,2016,4834605,south-carolina,South
+249,04000US46,South Dakota,2016,2016,851058,south-dakota,Midwest
+250,04000US47,Tennessee,2016,2016,6548009,tennessee,South
+251,04000US48,Texas,2016,2016,26956435,texas,Southwest
+252,04000US49,Utah,2016,2016,2948427,utah,West
+253,04000US50,Vermont,2016,2016,626249,vermont,NewEngland
+254,04000US51,Virginia,2016,2016,8310301,virginia,South
+255,04000US53,Washington,2016,2016,7073146,washington,West
+256,04000US54,West Virginia,2016,2016,1846092,west-virginia,South
+257,04000US55,Wisconsin,2016,2016,5754798,wisconsin,Midwest
+258,04000US56,Wyoming,2016,2016,583029,wyoming,West
+259,04000US72,Puerto Rico,2016,2016,3529385,puerto-rico,Other
+260,04000US01,Alabama,2015,2015,4830620,alabama,South
+261,04000US02,Alaska,2015,2015,733375,alaska,West
+262,04000US04,Arizona,2015,2015,6641928,arizona,Southwest
+263,04000US05,Arkansas,2015,2015,2958208,arkansas,South
+264,04000US06,California,2015,2015,38421464,california,West
+265,04000US08,Colorado,2015,2015,5278906,colorado,West
+266,04000US09,Connecticut,2015,2015,3593222,connecticut,NewEngland
+267,04000US10,Delaware,2015,2015,926454,delaware,MiddleAtlantic
+268,04000US11,District of Columbia,2015,2015,647484,district-of-columbia,Other
+269,04000US12,Florida,2015,2015,19645772,florida,South
+270,04000US13,Georgia,2015,2015,10006693,georgia,South
+271,04000US15,Hawaii,2015,2015,1406299,hawaii,West
+272,04000US16,Idaho,2015,2015,1616547,idaho,West
+273,04000US17,Illinois,2015,2015,12873761,illinois,Midwest
+274,04000US18,Indiana,2015,2015,6568645,indiana,Midwest
+275,04000US19,Iowa,2015,2015,3093526,iowa,Midwest
+276,04000US20,Kansas,2015,2015,2892987,kansas,Midwest
+277,04000US21,Kentucky,2015,2015,4397353,kentucky,South
+278,04000US22,Louisiana,2015,2015,4625253,louisiana,South
+279,04000US23,Maine,2015,2015,1329100,maine,NewEngland
+280,04000US24,Maryland,2015,2015,5930538,maryland,MiddleAtlantic
+281,04000US25,Massachusetts,2015,2015,6705586,massachusetts,NewEngland
+282,04000US26,Michigan,2015,2015,9900571,michigan,Midwest
+283,04000US27,Minnesota,2015,2015,5419171,minnesota,Midwest
+284,04000US28,Mississippi,2015,2015,2988081,mississippi,South
+285,04000US29,Missouri,2015,2015,6045448,missouri,South
+286,04000US30,Montana,2015,2015,1014699,montana,West
+287,04000US31,Nebraska,2015,2015,1869365,nebraska,Midwest
+288,04000US32,Nevada,2015,2015,2798636,nevada,West
+289,04000US33,New Hampshire,2015,2015,1324201,new-hampshire,NewEngland
+290,04000US34,New Jersey,2015,2015,8904413,new-jersey,MiddleAtlantic
+291,04000US35,New Mexico,2015,2015,2084117,new-mexico,Southwest
+292,04000US36,New York,2015,2015,19673174,new-york,MiddleAtlantic
+293,04000US37,North Carolina,2015,2015,9845333,north-carolina,South
+294,04000US38,North Dakota,2015,2015,721640,north-dakota,Midwest
+295,04000US39,Ohio,2015,2015,11575977,ohio,Midwest
+296,04000US40,Oklahoma,2015,2015,3849733,oklahoma,Southwest
+297,04000US41,Oregon,2015,2015,3939233,oregon,West
+298,04000US42,Pennsylvania,2015,2015,12779559,pennsylvania,MiddleAtlantic
+299,04000US44,Rhode Island,2015,2015,1053661,rhode-island,NewEngland
+300,04000US45,South Carolina,2015,2015,4777576,south-carolina,South
+301,04000US46,South Dakota,2015,2015,843190,south-dakota,Midwest
+302,04000US47,Tennessee,2015,2015,6499615,tennessee,South
+303,04000US48,Texas,2015,2015,26538614,texas,Southwest
+304,04000US49,Utah,2015,2015,2903379,utah,West
+305,04000US50,Vermont,2015,2015,626604,vermont,NewEngland
+306,04000US51,Virginia,2015,2015,8256630,virginia,South
+307,04000US53,Washington,2015,2015,6985464,washington,West
+308,04000US54,West Virginia,2015,2015,1851420,west-virginia,South
+309,04000US55,Wisconsin,2015,2015,5742117,wisconsin,Midwest
+310,04000US56,Wyoming,2015,2015,579679,wyoming,West
+311,04000US72,Puerto Rico,2015,2015,3583073,puerto-rico,Other
+312,04000US01,Alabama,2014,2014,4817678,alabama,South
+313,04000US02,Alaska,2014,2014,728300,alaska,West
+314,04000US04,Arizona,2014,2014,6561516,arizona,Southwest
+315,04000US05,Arkansas,2014,2014,2947036,arkansas,South
+316,04000US06,California,2014,2014,38066920,california,West
+317,04000US08,Colorado,2014,2014,5197580,colorado,West
+318,04000US09,Connecticut,2014,2014,3592053,connecticut,NewEngland
+319,04000US10,Delaware,2014,2014,917060,delaware,MiddleAtlantic
+320,04000US11,District of Columbia,2014,2014,633736,district-of-columbia,Other
+321,04000US12,Florida,2014,2014,19361792,florida,South
+322,04000US13,Georgia,2014,2014,9907756,georgia,South
+323,04000US15,Hawaii,2014,2014,1392704,hawaii,West
+324,04000US16,Idaho,2014,2014,1599464,idaho,West
+325,04000US17,Illinois,2014,2014,12868747,illinois,Midwest
+326,04000US18,Indiana,2014,2014,6542411,indiana,Midwest
+327,04000US19,Iowa,2014,2014,3078116,iowa,Midwest
+328,04000US20,Kansas,2014,2014,2882946,kansas,Midwest
+329,04000US21,Kentucky,2014,2014,4383272,kentucky,South
+330,04000US22,Louisiana,2014,2014,4601049,louisiana,South
+331,04000US23,Maine,2014,2014,1328535,maine,NewEngland
+332,04000US24,Maryland,2014,2014,5887776,maryland,MiddleAtlantic
+333,04000US25,Massachusetts,2014,2014,6657291,massachusetts,NewEngland
+334,04000US26,Michigan,2014,2014,9889024,michigan,Midwest
+335,04000US27,Minnesota,2014,2014,5383661,minnesota,Midwest
+336,04000US28,Mississippi,2014,2014,2984345,mississippi,South
+337,04000US29,Missouri,2014,2014,6028076,missouri,South
+338,04000US30,Montana,2014,2014,1006370,montana,West
+339,04000US31,Nebraska,2014,2014,1855617,nebraska,Midwest
+340,04000US32,Nevada,2014,2014,2761584,nevada,West
+341,04000US33,New Hampshire,2014,2014,1321069,new-hampshire,NewEngland
+342,04000US34,New Jersey,2014,2014,8874374,new-jersey,MiddleAtlantic
+343,04000US35,New Mexico,2014,2014,2080085,new-mexico,Southwest
+344,04000US36,New York,2014,2014,19594330,new-york,MiddleAtlantic
+345,04000US37,North Carolina,2014,2014,9750405,north-carolina,South
+346,04000US38,North Dakota,2014,2014,704925,north-dakota,Midwest
+347,04000US39,Ohio,2014,2014,11560380,ohio,Midwest
+348,04000US40,Oklahoma,2014,2014,3818851,oklahoma,Southwest
+349,04000US41,Oregon,2014,2014,3900343,oregon,West
+350,04000US42,Pennsylvania,2014,2014,12758729,pennsylvania,MiddleAtlantic
+351,04000US44,Rhode Island,2014,2014,1053252,rhode-island,NewEngland
+352,04000US45,South Carolina,2014,2014,4727273,south-carolina,South
+353,04000US46,South Dakota,2014,2014,834708,south-dakota,Midwest
+354,04000US47,Tennessee,2014,2014,6451365,tennessee,South
+355,04000US48,Texas,2014,2014,26092033,texas,Southwest
+356,04000US49,Utah,2014,2014,2858111,utah,West
+357,04000US50,Vermont,2014,2014,626358,vermont,NewEngland
+358,04000US51,Virginia,2014,2014,8185131,virginia,South
+359,04000US53,Washington,2014,2014,6899123,washington,West
+360,04000US54,West Virginia,2014,2014,1853881,west-virginia,South
+361,04000US55,Wisconsin,2014,2014,5724692,wisconsin,Midwest
+362,04000US56,Wyoming,2014,2014,575251,wyoming,West
+363,04000US72,Puerto Rico,2014,2014,3638965,puerto-rico,Other
+364,04000US01,Alabama,2013,2013,4799277,alabama,South
+365,04000US02,Alaska,2013,2013,720316,alaska,West
+366,04000US04,Arizona,2013,2013,6479703,arizona,Southwest
+367,04000US05,Arkansas,2013,2013,2933369,arkansas,South
+368,04000US06,California,2013,2013,37659181,california,West
+369,04000US08,Colorado,2013,2013,5119329,colorado,West
+370,04000US09,Connecticut,2013,2013,3583561,connecticut,NewEngland
+371,04000US10,Delaware,2013,2013,908446,delaware,MiddleAtlantic
+372,04000US11,District of Columbia,2013,2013,619371,district-of-columbia,Other
+373,04000US12,Florida,2013,2013,19091156,florida,South
+374,04000US13,Georgia,2013,2013,9810417,georgia,South
+375,04000US15,Hawaii,2013,2013,1376298,hawaii,West
+376,04000US16,Idaho,2013,2013,1583364,idaho,West
+377,04000US17,Illinois,2013,2013,12848554,illinois,Midwest
+378,04000US18,Indiana,2013,2013,6514861,indiana,Midwest
+379,04000US19,Iowa,2013,2013,3062553,iowa,Midwest
+380,04000US20,Kansas,2013,2013,2868107,kansas,Midwest
+381,04000US21,Kentucky,2013,2013,4361333,kentucky,South
+382,04000US22,Louisiana,2013,2013,4567968,louisiana,South
+383,04000US23,Maine,2013,2013,1328320,maine,NewEngland
+384,04000US24,Maryland,2013,2013,5834299,maryland,MiddleAtlantic
+385,04000US25,Massachusetts,2013,2013,6605058,massachusetts,NewEngland
+386,04000US26,Michigan,2013,2013,9886095,michigan,Midwest
+387,04000US27,Minnesota,2013,2013,5347740,minnesota,Midwest
+388,04000US28,Mississippi,2013,2013,2976872,mississippi,South
+389,04000US29,Missouri,2013,2013,6007182,missouri,South
+390,04000US30,Montana,2013,2013,998554,montana,West
+391,04000US31,Nebraska,2013,2013,1841625,nebraska,Midwest
+392,04000US32,Nevada,2013,2013,2730066,nevada,West
+393,04000US33,New Hampshire,2013,2013,1319171,new-hampshire,NewEngland
+394,04000US34,New Jersey,2013,2013,8832406,new-jersey,MiddleAtlantic
+395,04000US35,New Mexico,2013,2013,2069706,new-mexico,Southwest
+396,04000US36,New York,2013,2013,19487053,new-york,MiddleAtlantic
+397,04000US37,North Carolina,2013,2013,9651380,north-carolina,South
+398,04000US38,North Dakota,2013,2013,689781,north-dakota,Midwest
+399,04000US39,Ohio,2013,2013,11549590,ohio,Midwest
+400,04000US40,Oklahoma,2013,2013,3785742,oklahoma,Southwest
+401,04000US41,Oregon,2013,2013,3868721,oregon,West
+402,04000US42,Pennsylvania,2013,2013,12731381,pennsylvania,MiddleAtlantic
+403,04000US44,Rhode Island,2013,2013,1051695,rhode-island,NewEngland
+404,04000US45,South Carolina,2013,2013,4679602,south-carolina,South
+405,04000US46,South Dakota,2013,2013,825198,south-dakota,Midwest
+406,04000US47,Tennessee,2013,2013,6402387,tennessee,South
+407,04000US48,Texas,2013,2013,25639373,texas,Southwest
+408,04000US49,Utah,2013,2013,2813673,utah,West
+409,04000US50,Vermont,2013,2013,625904,vermont,NewEngland
+410,04000US51,Virginia,2013,2013,8100653,virginia,South
+411,04000US53,Washington,2013,2013,6819579,washington,West
+412,04000US54,West Virginia,2013,2013,1853619,west-virginia,South
+413,04000US55,Wisconsin,2013,2013,5706871,wisconsin,Midwest
+414,04000US56,Wyoming,2013,2013,570134,wyoming,West
+415,04000US72,Puerto Rico,2013,2013,3682966,puerto-rico,Other
